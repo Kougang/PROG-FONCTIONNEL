@@ -1,0 +1,1 @@
+positions xs x = [i| (n,i) <- zip xs [0..], x ==n ]

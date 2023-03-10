@@ -1,0 +1,1 @@
+data Complex = MakeComplex {realPart::Float, imgPart::Float} deriving Show
